@@ -1,0 +1,130 @@
+
+
+ ActiTime software(TIME TRACKING SOFTWARE)
+------------------------
+
+>Use of this software ?
+Whenever the task is assigned to any of the employess to track their work progress we make use of this
+software.
+
+
+ACTITIME >> Time tracking software
+
+Why you should learn ??
+ANS: TO Implement all your manual testing concepts on this software
+Ex: 
+
+Actitime>> 2 types >
+a) Web app 
+b) Standalone app
+
+   Actitime is a time tracking software which is used to track the assigned task and to generate the Report of the task, its is also called as time tracking software
+
+
+Workflow of Actitime :
+1)Login as Admin
+2)Create Test lead
+3)Logout as Admin
+
+4)Login as Test lead
+5)Create customer
+6)Create project
+7)Create the Test eng
+8)Assign the task
+9)Logout as Test Lead
+
+10)Login as Test engineer
+11)Check and update the task
+12)Logout as Test eng
+
+13)Login as Test lead
+14)Check updates
+15)Generate the report
+16)Logout as Test lead.
+
+
+
+
+
+
+
+
+Admin module :
+Steps to create Test lead :
+1)Login as Admin, admin home page is displayed for   actitime.
+2)Click on Users major tab, user list page will be     displayed.
+3)Click on Add user button, create user account page    will be displayed.
+4)Enter all the details(1st and last name, username,    password, mail id and give all permission)
+5)Click on Create User button. The test lead account   will be created.
+
+
+
+Lead module :
+Steps to create a Customer :
+1)Login as Test lead, test lead home page is displayed for actitime.
+2)Click on Tasks major tab
+3)Click on Projects and customer minor tab
+4)Click on Create customer button, create new customer page will be displayed
+5)Enter the name and description of customer and click on Create customer button
+The customer will be created and displayed in list of customer and projects page.
+
+
+
+
+Steps to create a project :
+1)Login as Test lead, test lead home page is displayed for actitime.
+2)Click on Tasks major tab
+3)Click on Projects and customer minor tab
+4)Click on Create project button, create new project page will be displayed
+5)Enter the name of project, customer and description of project and click on Create project button
+The project will be created and displayed in list of customer and projects page.
+
+
+
+
+
+
+
+
+Steps to create Test engineer :
+1)Login as Test lead.
+2)Click on User major tab, users list page is displayed.
+3)Click on Add user button, create new user popup is displayed.
+4)Enter name, mail id, username and password.
+5)Give only permission Enter time track and click on Create User button.
+The test engineer account will be created and displayed in list of users.
+
+>Steps to assign task for Test engineer :
+1)Login as Test lead, test lead home page is displayed for Actitime.
+2)Click on Time-track major tab.
+3)Select enter time track for dropdown for test engineer
+4)Click on New link, create new task pop up is displayed.
+5)Select project and customer, task name, deadline and click on Create task button.
+The task will be created and displayed in task page
+New Section 1 Page 2
+The task will be created and displayed in task page
+
+test Engineer module :
+Steps to check and update the task :
+Login as Test engineer, in time track page refer the given task and enter the working hours and click on Save changes button
+
+Lead module :
+Steps to generate the reports :
+1)Login as test lead.
+2)Click on Reports major tab.
+3)Click on Create report button.
+4)Click on configure report parameter button.
+5)Select the test engineer in check box and click on Generate report.
+6)Click on Export to CSV(Comma seperated value).
+The report will be generated and given to customer as proof of progress
+
+This actitime is available in 2 ways :
+1)Desktop application >> Link to download and install >> works > Good(laptop/platform not support)
+2)Web based >> Online >> Search Actitime software >> Trail account
+Admin acc credentials :
+Us = admin
+Pw = manager
+
+
+
+
